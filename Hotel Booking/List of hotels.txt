@@ -1,0 +1,11 @@
+Generate a list of 10 hotels with the following information about each hotel. Call this the "hotel list". The generated information about each hotel must include:
+
+Hotel name,
+Hotel website url,
+Hotel location (country),
+Hotel number of stars,
+Hotel facilities, e.g. gym, pool, spa, etc.
+Cost per night,
+Available dates for October 2023.
+
+Do not display all the hotels. Only display the first 3 of these hotels, in table form.
